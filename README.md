@@ -39,9 +39,15 @@ This tool is designed with modular components, headless browser automation, and 
 
 BookScraperTool/
 ├── Program.cs
+
 ├── BookCollector.cs
+
 ├── Models/
+
 │ └── BookDetails.cs
+
 ├── FileOutput/
+
 │ └── CsvWriterService.cs
+
 └── scraped_books.csv 
