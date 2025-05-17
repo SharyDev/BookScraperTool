@@ -33,21 +33,4 @@ This tool is designed with modular components, headless browser automation, and 
 - 🧪 Achieved **100% data accuracy** during multiple test runs  
 - 🧵 Runs headlessly with minimal CPU usage (~5–7%) and memory footprint
 
----
 
-## 📂 Project Structure
-
-BookScraperTool/
-├── Program.cs
-
-├── BookCollector.cs
-
-├── Models/
-
-│ └── BookDetails.cs
-
-├── FileOutput/
-
-│ └── CsvWriterService.cs
-
-└── scraped_books.csv 
